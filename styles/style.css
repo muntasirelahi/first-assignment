@@ -100,3 +100,19 @@
 
 /* my plans */
 
+.plan-title{
+    position: absolute;
+    width: 179px;
+    height: 47px;
+    left: 711px;
+    top: 1792.3px;
+    
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;  
+    padding-bottom: 30px;  
+    
+}
+
