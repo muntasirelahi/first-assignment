@@ -38,9 +38,88 @@
     font-weight: 600;
     font-size: 20px;
     line-height: 23px;
-    
+
 
     color: #FFFFFF;
 
 }
+
+/* image plus failure related paragraph */
+
+.first-part {
+    position: absolute;
+    width: 1072px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px;
+}
+
+.first-part-left {
+
+    position: absolute;
+    width: 569px;
+    position: absolute;
+}
+
+.first-part-right {
+    position: absolute;
+    width: 416px;
+    height: 400px;
+    left: 862px;
+    top: 232px;
+}
+
+.first-right-title {
+    width: 288px;
+    height: 94px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    font-family: 'Work Sans';
+    font-style: normal;
+}
+
+.first-right-description {
+    position: absolute;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    padding-top: 10px;
+}
+
+.first-right-list {
+    position: absolute;
+    top: 220px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    padding-right: 5px;
+}
+
+/* my plans */
+
+.second-part {
+    position: absolute;
+    width: 179px;
+    height: 47px;
+    left: 711px;
+    top: 1792.3px;
+}
+
+.second-part-title {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    padding-bottom: 15px;
+}
+
+.descripts {
+    display: flex;
+
+}
+
 
