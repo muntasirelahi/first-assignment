@@ -108,3 +108,30 @@
     top: 1792.3px;
 
 }
+.section-er-title{
+    padding-bottom: 15px;
+}
+
+.section-title{
+    font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+text-align: center;
+}
+.plans-container{
+    display: flex;
+    gap: 40px;
+    justify-content: space-around;
+}
+
+.skill-title{
+    font-weight: 700;
+font-size: 30px;
+}
+
+.skill-description{
+    font-weight: 500;
+font-size: 25px;
+color: #737272;
+}
+
