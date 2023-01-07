@@ -100,26 +100,3 @@
 
 /* my plans */
 
-.second-part {
-    position: absolute;
-    width: 179px;
-    height: 47px;
-    left: 711px;
-    top: 1792.3px;
-}
-
-.second-part-title {
-    font-family: 'Work Sans';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 40px;
-    line-height: 47px;
-    padding-bottom: 15px;
-}
-
-.descripts {
-    display: flex;
-
-}
-
-
